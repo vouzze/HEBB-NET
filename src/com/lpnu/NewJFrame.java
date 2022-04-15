@@ -341,7 +341,7 @@ public class NewJFrame extends javax.swing.JFrame {
         textField4 = new JTextField("V");
         textField4.setBorder(border);
 
-        Object[][] tb5 = {{true, true, true, false, false},
+        Object[][] tb5 = {{false, false, false, false, false},
                 {false, false, false, false, false},
                 {false, false, false, false, false},
                 {false, false, false, false, false},

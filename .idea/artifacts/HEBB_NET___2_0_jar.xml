@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HEBB-NET - 2.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HEBB_NET___2_0_jar</output-path>
+    <root id="archive" name="HEBB-NET - 2.0.jar">
+      <element id="module-output" name="HEBB-NET - 2.0" />
+    </root>
+  </artifact>
+</component>
